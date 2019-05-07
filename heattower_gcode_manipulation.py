@@ -1,8 +1,8 @@
 import os
 
 
-input_file = "/home/jonas/3D_Druck/Kalibrieren/Temperature-Calibration_temp.gcode"
-output_file = "/home/jonas/3D_Druck/Kalibrieren/Temperature-Calibration_temp_edit.gcode"
+input_file = "PATH_TO_GCODE"
+output_file = "PATH_TO_NEW_GCODE"
 
 # Temperatures
 maximum_temperature = 235
